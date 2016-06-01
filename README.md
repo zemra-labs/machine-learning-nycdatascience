@@ -6,4 +6,4 @@ To run as a commandline application
   2) run the script passing a command line arg(pass any stock ticker, I've used Amazon's ticker below 'AMZN'):  
   `python stock_analysis.py AMZN`  
   
-**the script will out put accuracy of the model along with a graph ui
+__Results__ : the script will out put accuracy of three models along with a graph ui showing the mean price (average of open and close), and also predict the next the mean price of the stock up to 1 month in the future
