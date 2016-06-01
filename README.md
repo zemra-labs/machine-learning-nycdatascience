@@ -1,3 +1,5 @@
+![AMZN stock price ](https://github.com/andimitre/machine-learning-nycdatascience/blob/master/linear_regression/AMZN%202016-06-01.png)
+
 # nycdatascience-ml-stock-analysis
 Linear regression on any stock.
 
